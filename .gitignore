@@ -1,5 +1,6 @@
 pubspec.lock
 flutter_jank_metrics*
+coverage/
 
 # Miscellaneous
 *.class
