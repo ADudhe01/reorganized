@@ -14,3 +14,9 @@ TODO
 ## Contributing
 
 See [Contributing Document](CONTRIBUTING.md) for more information on getting started.
+
+## Licensing
+
+Copyright 2023, SmartTool1s.
+
+Licensed under Apache 2.0 License.
