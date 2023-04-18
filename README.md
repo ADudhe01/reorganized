@@ -1,16 +1,16 @@
-# reorganized
+# Reorganized
 
-A new Flutter project.
+The app for staying organized.
 
-## Getting Started
+In the information age, with the constant influx of new information, it's easy to miss out on essential things, forget to bookmark important websites, and lose track of items we've borrowed or lent.
 
-This project is a starting point for a Flutter application.
+To solve this problem, the application stores the data from our daily lives permanently in an app, making it easily retrievable. And, unlike traditional diary journaling, this app provides a more efficient way to search, analyze, and accumulate activities at any time.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TODO
+
+## Contributing
+
+See [Contributing Document](CONTRIBUTING.md) for more information on getting started.
